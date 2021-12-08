@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JahyLuky
 - 👀 I’m interested in code, books and linux
-- 🌱 I’m currently learning IT in CTU Prague
+- 🌱 I’m currently learning IT at CTU Prague
 - 💞️ I’m looking to collaborate on ...?
 - 📫 How to reach me jahyluky@gmail.com
 

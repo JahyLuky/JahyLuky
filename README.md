@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @JahyLuky
-- 👀 I’m interested in code, books and linux
-- 🌱 I’m currently learning IT at CTU Prague
-- 💞️ I’m looking to collaborate on ...?
+-  🥺 Hello human
+- 👉👈 I’m @JahyLuky
+- 👀 I’m interested in chess, books and sometimes code
+- 📚 I’m currently learning IT at CTU Prague
+- ☕️ I’m looking to collaborate on my depression
 - 📫 How to reach me jahyluky@gmail.com
 
 <!---

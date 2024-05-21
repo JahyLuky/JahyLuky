@@ -1,4 +1,4 @@
 - 👋 Hello, I’m Lukáš Jahelka
 - 👀 I’m interested in chess, books and coding
-- 📚 I’m currently learning IT at VSPJ, used to study at CTU Prague for 2 years
+- 📚 I’m currently learning IT at VSPJ, used to study at CTU Prague
 - 📫 How to reach me **jahyluky@gmail.com** or **[linkedin](https://www.linkedin.com/in/luk%C3%A1%C5%A1-jahelka-97ba1a236/)**.

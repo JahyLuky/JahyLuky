@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JahyLuky&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](author=me&quote=test)
+[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)]()
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JahyLuky&icon=3&color=5)](https://visitcount.itsvg.in)

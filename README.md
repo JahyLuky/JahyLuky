@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on creating my own homelab using Jellyfin Server Setup with Docker, Caddy, and Tailscale<br>🤝 I’m looking to collaborate on any fun and interesting project, an opportunity to learn something new is always nice<br>🌱 I’m currently learning C# and .NET frameworks, including ASP.NET for web applications and REST APIs, as well as WPF for desktop applications.<br>💬 Ask me about anything<br>⚡ Fun fact: I love cats
+🔭 I’m currently working on creating my own homelab using Jellyfin Server Setup with Docker, Caddy, and Tailscale<br>🤝 I’m looking to collaborate on any fun and interesting project, an opportunity to learn something new is always nice<br>🌱 I’m currently learning C# and .NET frameworks, including ASP.NET for web applications and REST APIs, as well as WPF for desktop applications.<br>💬 Ask me about anything<br>⚡ Checkout my not perfect [website](https://JahyLuky.github.io)
 
 
 ## 🌐 Socials:

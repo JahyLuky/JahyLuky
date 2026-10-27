@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm a C# and .NET developer. 
+👨‍💻 I'm a C# and .NET developer.  
 [My website](https://JahyLuky.github.io)
 
 

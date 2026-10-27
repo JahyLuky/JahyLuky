@@ -1,6 +1,6 @@
 # 💫 About Me:
-👨‍💻 I'm a C# and .NET developer
-[website](https://JahyLuky.github.io)
+👨‍💻 I'm a C# and .NET developer. 
+[My website](https://JahyLuky.github.io)
 
 
 ## 🌐 Socials:
